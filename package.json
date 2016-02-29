@@ -5,16 +5,16 @@
   "dependencies": {
     "babel-core": "^5.8.34",
     "babel-loader": "^5.4.0",
-    "phaser-shim": "^2.4.4",
+    "phaser-shim": "^2.4.7",
     "script-loader": "^0.6.1",
     "webpack": "^1.12.11",
     "webpack-dev-server": "^1.14.1",
     "webpack-error-notification": "^0.1.6"
   },
   "devDependencies": {
-    "babel-core": "^5.8.25",
+    "babel-core": "^5.8.35",
     "babel-loader": "^5.3.2",
-    "webpack": "^1.12.2",
+    "webpack": "^1.12.14",
     "webpack-dev-server": "^1.12.1",
     "webpack-error-notification": "^0.1.4"
   },
