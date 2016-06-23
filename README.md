@@ -1,4 +1,4 @@
-Phaser Webpack Babel boilerplate 
+:space_invader: Phaser Webpack Babel boilerplate 
 =======
 
 - Phaser-shim (https://github.com/amowu/phaser-shim, to be able to use Phaser with Webpack)
